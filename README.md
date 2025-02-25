@@ -167,7 +167,7 @@ Access Shuffle Web UI at http://YOUR-IP:3001
 
 2. **Change Cluster Name:**
    ```yaml
-   cluster_name: 'SOAR-Flow'
+   cluster_name: 'Automated-Intelligence'
    ```
 
 3. **Update Listen Address:**
@@ -362,8 +362,8 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 📬 Contact  
-👤 **Author:** [Nitin Sharma](https://github.com/malwarekid)  
-💻 **Instagram:** [Malwarekid](https://instagram.com/malwarekid)  
-📧 **LinkedIn:** [Connect](https://www.linkedin.com/in/-nitinsharma/)  
+👤 **Author:** [Saja Zarour](https://github.com/salsal28)  
+💻 **Blog:** [GrayCyber](https://cr112.wordpress.com/)  
+📧 **LinkedIn:** [Connect](https://shorturl.at/EkgnP)  
 
 ---
